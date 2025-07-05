@@ -47,7 +47,7 @@ desempenho-escolar-analysis/
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/desempenho-escolar-analysis.git
+git clone https://github.com/Renatoinvest/Analise-de-desempenho-escolar
 cd desempenho-escolar-analysis
 2. Crie um ambiente virtual
 bash
