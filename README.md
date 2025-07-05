@@ -1,4 +1,5 @@
 📊 Análise de Desempenho Escolar
+
 Este projeto utiliza Python, Pandas e Streamlit para analisar dados de desempenho escolar, com o objetivo de identificar padrões entre os alunos, matérias com maiores dificuldades e destaques acadêmicos. A proposta é transformar dados brutos em informações acionáveis para escolas, professores e gestores.
 
 🔍 Objetivos
@@ -13,6 +14,7 @@ Criar visualizações para facilitar a interpretação.
 Desenvolver um painel interativo com Streamlit.
 
 🗂 Estrutura do Projeto
+
 bash
 Copiar
 Editar
@@ -28,7 +30,9 @@ desempenho-escolar-analysis/
 │   └── 04-visualizacoes.ipynb
 └── app/
     └── streamlit_app.py      # Painel interativo com Streamlit
+    
 ▶️ Como Usar
+
 1. Clone o repositório
 bash
 Copiar
@@ -60,7 +64,9 @@ bash
 Copiar
 Editar
 streamlit run app/streamlit_app.py
+
 📈 Possíveis Insights
+
 Alunos com maior número de notas 10 e em quais matérias.
 
 Matérias com maior concentração de notas baixas.
