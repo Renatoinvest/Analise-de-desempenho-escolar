@@ -20,15 +20,25 @@ Copiar
 Editar
 desempenho-escolar-analysis/
 ├── README.md                 # Este arquivo
+
 ├── requirements.txt          # Dependências do projeto
+
 ├── LICENSE                   # Licença do projeto
+
 ├── data/                     # Local para os arquivos CSV
+
 ├── notebooks/                # Jupyter Notebooks para análise
+
 │   ├── 01-limpeza-dados.ipynb
+
 │   ├── 02-analise-exploratoria.ipynb
+
 │   ├── 03-ranking-alunos.ipynb
+
 │   └── 04-visualizacoes.ipynb
+
 └── app/
+
     └── streamlit_app.py      # Painel interativo com Streamlit
     
 ▶️ Como Usar
